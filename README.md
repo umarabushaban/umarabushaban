@@ -33,7 +33,7 @@ $ ./ship --with=empathy --quality=high
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarabushaban&show_icons=true&theme=dark&hide_border=true&bg_color=0F1116&title_color=6EE7B7&icon_color=6EE7B7&text_color=E9ECF1" alt="GitHub stats" height="165"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=umarabushaban&show_icons=true&theme=dark&hide_border=true&bg_color=0F1116&title_color=6EE7B7&icon_color=6EE7B7&text_color=E9ECF1" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarabushaban&theme=dark&hide_border=true&background=0F1116&ring=6EE7B7&fire=F5C542&currStreakLabel=6EE7B7" alt="streak stats" height="165"/>
 </p>
 
